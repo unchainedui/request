@@ -1,7 +1,7 @@
 {
   "name": "uc-request",
   "version": "1.0.0",
-  "description": "Low level http request with file upload and progress",
+  "description": "Low-level HTTP request with file upload and progress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
