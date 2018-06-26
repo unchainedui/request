@@ -2,6 +2,9 @@
 
 ## Request
 
+[![NPM Version](https://img.shields.io/npm/v/uc-request.svg?style=flat-square)](https://www.npmjs.com/package/uc-request)
+[![NPM Downloads](https://img.shields.io/npm/dt/uc-request.svg?style=flat-square)](https://www.npmjs.com/package/uc-request)
+
 Low-level HTTP request with file upload and progress
 
 ### Usage
