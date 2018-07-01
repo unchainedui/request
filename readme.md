@@ -10,14 +10,14 @@ Low-level HTTP request with file upload and progress
 ### Usage
 
 ```js
-import request from 'uc-log'
+import request from 'uc-request';
 
 request.send({
   url: 'http://localhost/api/user.get',
   method: 'get'
 }, res => {
   console.log(res);
-})
+});
 ```
 
 ### Static methods
